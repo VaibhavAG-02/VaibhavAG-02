@@ -61,5 +61,4 @@ I’m a results-driven **Data Engineer** passionate about **building scalable da
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=blue&style=flat-square)  
 💡 *"Data is not just numbers; it's the story behind decisions."*
