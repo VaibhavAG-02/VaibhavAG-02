@@ -1,64 +1,88 @@
-# Hi there, I'm Vaibhav Sathe 👋  
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🚀 **Data Engineer | Cloud & Big Data Enthusiast | Aspiring AI/ML Practitioner**  
+###
 
-I’m a results-driven **Data Engineer** passionate about **building scalable data systems**, **real-time analytics solutions**, and **cloud-native architectures**. Currently pursuing my **Master's in Data Science** at **UMBC**, I specialize in bridging the gap between **raw data** and **strategic decisions**.  
+<div align="center">
+  <a href="https://linkedin.com/in/vaibhavsathe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vsathe1@umbc.edu">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  </a>
+  <a href="https://github.com/yourgithubusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🛠 Tech Stack  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourgithubusername.yourgithubusername&"  />
+</div>
 
-**Languages & Querying**  
-`Python` • `SQL` • `C`  
+###
 
-**Big Data & Processing**  
-`Apache Spark` • `PySpark` • `Hadoop` • `Kafka`  
+<h1 align="center">Hey there 👋</h1>
 
-**Cloud Platforms**  
-`AWS (EC2, S3, Lambda, Redshift)` • `Azure (Data Factory, Databricks, Synapse)` • `Google Cloud`  
+###
 
-**Databases**  
-`PostgreSQL` • `MySQL` • `MS SQL Server`  
+<h3 align="left">👨‍💻 About Me</h3>
 
-**DevOps & Tools**  
-`Docker` • `Kubernetes` • `Jenkins` • `Git`  
+###
 
-**Analytics & ML**  
-`TensorFlow` • `Keras` • `Scikit-learn` • `NLP` • `LangChain`  
+<p align="left">
+I'm Vaibhav Sathe from Catonsville, MD.<br><br>
+- 🎓 Master's in Data Science @ UMBC (Graduating 2026)<br>
+- 🚀 Data Engineer with 2+ years experience in scalable data systems<br>
+- ☁️ Cloud enthusiast (AWS, Azure, GCP) & Big Data (Spark, Kafka, Hadoop)<br>
+- 📊 Skilled in turning raw data into meaningful insights<br>
+- ⚡ Fun fact: I believe coffee is just compiled data for humans ☕  
+</p>
 
-**Visualization**  
-`Tableau` • `Power BI`  
+###
 
----
+<h3 align="left">🛠 Languages and Tools</h3>
 
-## 📜 Certifications  
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" height="40" alt="spark logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">📜 Certifications</h3>
 
 - [Microsoft Certified: Azure Data Engineer Associate (DP-203)](https://learn.microsoft.com/en-us/users/vaibhavsathe-8544/credentials/9b1d72987916d153)  
 - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/e25ae531-da0a-4571-88c2-b798f3d7119a#acc.QX26TKZM)  
 
----
+###
 
-## 🎓 Education  
+<h3 align="left">🔥 My Stats</h3>
 
-**M.P.S. in Data Science** – University of Maryland, Baltimore County *(08/2024 – 05/2026)*  
-**B.Tech in Computer Science & Engineering** – Deogiri Institute of Engineering and Management Studies *(08/2018 – 07/2022)*  
+###
 
----
-
-## 🌐 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavsathe)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithubusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-📧 **Email:** [vsathe1@umbc.edu](mailto:vsathe1@umbc.edu)  
-
----
-
-## 📊 GitHub Stats  
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)  
-
----
-
-💡 *"Data is not just numbers; it's the story behind decisions."*
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yourgithubusername&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" height="180" />
+</div>
